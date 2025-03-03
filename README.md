@@ -17,7 +17,9 @@ This code is only for academic and research purposes.
 ### Pre-requisites
 ```
 Python 3.9.7 or higher
+```
 Or you can run the above code on AutoDL, the environment I use is:
+```
 GPU RTX 2080 Ti (11GB) * 1
 CPU 12 vCPU Intel(R) Xeon(R) Platinum 8255C CPU @ 2.50GHz
 ```
