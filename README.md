@@ -12,6 +12,8 @@ This code is only for academic and research purposes.
 
 ### Executive summary
 
+This paper proposes TrafficKAN-GCN, a hybrid model combining Kolmogorov-Arnold Networks (KAN) and Graph Convolutional Networks (GCN) for urban traffic flow optimization. Traditional algorithms struggle with large-scale, dynamic traffic, while GCNs capture spatial patterns but lack flexibility for complex nonlinear traffic changes. TrafficKAN-GCN enhances adaptability by integrating KAN’s learnable transformations, improving performance in noisy, dynamic conditions. Tested on Baltimore traffic data, it reduced peak-hour delays by 22% and improved congestion distribution after the Francis Scott Key Bridge collapse. Though slightly less accurate than MLP-GCN, it offers better robustness. Future work will focus on reducing computational cost and enhancing real-time scalability.
+
 
 
 ### Pre-requisites
