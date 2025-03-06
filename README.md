@@ -4,9 +4,17 @@ With the spirit of reproducible research, this repository contains codes require
 > J. Zhang, Y. Zhang, Y. Zheng, Y. Wang, J. You, Y. Xu, W. Jiang, S. Dev, TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization, *Decision Analysis Journal*, Under review.
 
 ## Citing
-If you find our model useful in your research, please consider citing our [paper](There should have been a mysterious link here).
+If you find our model useful in your research, please consider citing our [paper](https://arxiv.org/abs/2503.03276).
 ```
-Waiting for review ~
+@misc{zhang2025traffickangcngraphconvolutionalbasedkolmogorovarnold,
+      title={TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization}, 
+      author={Jiayi Zhang and Yiming Zhang and Yuan Zheng and Yuchen Wang and Jinjiang You and Yuchen Xu and Wenxing Jiang and Soumyabrata Dev},
+      year={2025},
+      eprint={2503.03276},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2503.03276}, 
+}
 ```
 This code is only for academic and research purposes.
 
